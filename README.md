@@ -2,14 +2,15 @@
   <img src="images/logo.png />
 </p>
 
-- [Anime](anime)
-- [Art](art)
-- [GIFs](gifs)
-- [Images](images)
-- [LaTeX](latex)
-- [Manga](manga)
-- [Optical Illusions](optical-illusions)
-- [Transparent Images](transparent-images)
+A non-exhaustive collection of some great sites.
+
+- [Anime](#anime)
+- [Art](#art)
+- [GIFs](#gifs)
+- [Images](#images)
+- [LaTeX](#latex)
+- [Manga](#manga)
+- [Transparent Images](#transparent-images)
 
 ### Anime
 
@@ -36,10 +37,6 @@
 ### Manga
 
 [viz.com](https://www.viz.com/) has a good collection of manga behind a paywall.
-
-### Optical Illusions
-
-[](https://kconrad.math.uconn.edu/opticalillusion.png) is nice illusion.
 
 ### Transparent Logos
 

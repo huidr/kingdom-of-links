@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png />
+  <img src="/images/logo.png" />
 </p>
 
 A non-exhaustive collection of some great sites.

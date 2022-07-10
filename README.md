@@ -38,7 +38,7 @@ A non-exhaustive collection of some great sites.
 
 [viz.com](https://www.viz.com/) has a good collection of manga behind a paywall.
 
-### Transparent Logos
+### Transparent Images
 
 [logo.wine](https://logo.wine/) has high quality logos for brands in both PNG and SVG.
 

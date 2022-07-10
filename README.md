@@ -45,3 +45,5 @@ A non-exhaustive collection of some great sites.
 [cleanpng.com](https://cleanpng.com/) has a large amount of transparent PNGs.
 
 [cooltext.com](https://cooltext.com/) lets you design text and logos in transparent PNG and other formats.
+
+[pngtree.com](https://pngtree.com/) has millions of images in PNG and AI formats.

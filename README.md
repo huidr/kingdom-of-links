@@ -20,7 +20,7 @@ A non-exhaustive collection of some great sites.
 
 ### Art
 
-[deviantart](https://www.deviantart.com/) is a paradise of good art and artists.
+[deviantart.com](https://www.deviantart.com/) is a paradise of good art and artists.
 
 ### GIFs
 

@@ -14,36 +14,36 @@ A non-exhaustive collection of some great sites.
 
 ### Anime
 
-[AnimeRG](https://animereleasegroup.blogspot.com/p/main.html) has a good collecton of anime torrents.
+- [AnimeRG](https://animereleasegroup.blogspot.com/p/main.html) has a good collecton of anime torrents.
 
 [animepahe.com](animepahe.com) has a large collection of anime at good quality with low file size.
 
 ### Art
 
-[deviantart.com](https://www.deviantart.com/) is a paradise of good art and artists.
+- [deviantart.com](https://www.deviantart.com/) is a paradise of good art and artists.
 
 ### GIFs
 
-[tenor.com](https://tenor.com/) has a massive collection of GIFs.
+- [tenor.com](https://tenor.com/) has a massive collection of GIFs.
 
 ### Images
 
-[unsplash.com](https://unsplash.com/) is good source of freely-usable images for your blogs, projects, etc.
+- [unsplash.com](https://unsplash.com/) is good source of freely-usable images for your blogs, projects, etc.
 
 ### LaTeX
 
-[detexify.kirelabs.org](http://detexify.kirelabs.org/classify.html) lets you draw a symbol and tells you its LaTeX command.
+- [detexify.kirelabs.org](http://detexify.kirelabs.org/classify.html) lets you draw a symbol and tells you its LaTeX command.
 
 ### Manga
 
-[viz.com](https://www.viz.com/) has a good collection of manga behind a paywall.
+- [viz.com](https://www.viz.com/) has a good collection of manga behind a paywall.
 
 ### Transparent Images
 
-[logo.wine](https://logo.wine/) has high quality logos for brands in both PNG and SVG.
+- [logo.wine](https://logo.wine/) has high quality logos for brands in both PNG and SVG.
 
-[cleanpng.com](https://cleanpng.com/) has a large amount of transparent PNGs.
+- [cleanpng.com](https://cleanpng.com/) has a large amount of transparent PNGs.
 
-[cooltext.com](https://cooltext.com/) lets you design text and logos in transparent PNG and other formats.
+- [cooltext.com](https://cooltext.com/) lets you design text and logos in transparent PNG and other formats.
 
-[pngtree.com](https://pngtree.com/) has millions of images in PNG and AI formats.
+- [pngtree.com](https://pngtree.com/) has millions of images in PNG and AI formats.

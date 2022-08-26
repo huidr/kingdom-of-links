@@ -10,6 +10,7 @@ A non-exhaustive collection of some great sites.
 - [Images](#images)
 - [LaTeX](#latex)
 - [Manga](#manga)
+- [Mathematics](#mathematics)
 - [Transparent Images](#transparent-images)
 
 ### Anime
@@ -37,6 +38,10 @@ A non-exhaustive collection of some great sites.
 ### Manga
 
 - [viz.com](https://www.viz.com/) has a good collection of manga behind a paywall.
+
+### Mathematics
+
+- [nLab](https://ncatlab.org/nlab/show/HomePage) is a wiki and has some great content on category theory and homotopy theory.
 
 ### Transparent Images
 

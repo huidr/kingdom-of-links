@@ -11,6 +11,7 @@ A non-exhaustive collection of some great sites.
 - [LaTeX](#latex)
 - [Manga](#manga)
 - [Mathematics](#mathematics)
+- [Searchers](#searchers)
 - [Transparent Images](#transparent-images)
 
 ### Anime
@@ -42,6 +43,8 @@ A non-exhaustive collection of some great sites.
 ### Mathematics
 
 - [nLab](https://ncatlab.org/nlab/show/HomePage) is a wiki and has some great content on category theory and homotopy theory.
+
+### Searchers
 
 ### Transparent Images
 

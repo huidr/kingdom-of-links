@@ -46,6 +46,8 @@ A non-exhaustive collection of some great sites.
 
 ### Searchers
 
+- [Libgen]
+
 ### Transparent Images
 
 - [logo.wine](https://logo.wine/) has high quality logos for brands in both PNG and SVG.

@@ -46,7 +46,7 @@ A non-exhaustive collection of some great sites.
 
 ### Searchers
 
-- [Libgen]
+- [Libgen](https://libgen.is/) is a library website for scholarly articles, books, journals, magazines and more.
 
 ### Transparent Images
 

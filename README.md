@@ -47,7 +47,7 @@ A non-exhaustive collection of some great sites.
 ### Searchers
 
 - [Libgen](https://libgen.is/) is a library website for scholarly articles, books, journals, magazines and more.
-- [PirateBay](https://thepiratebays.com/) is an online directory for movies, videos, audios and more.
+- [The Pirate Bay](https://thepiratebays.com/) is an online directory for movies, videos, audios and more.
 
 ### Transparent Images
 

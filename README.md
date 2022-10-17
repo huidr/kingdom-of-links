@@ -13,6 +13,7 @@ A non-exhaustive collection of some great sites.
 - [Mathematics](#mathematics)
 - [Searchers](#searchers)
 - [Transparent Images](#transparent-images)
+- [Some Fun Sites](#some-fun-sites)
 
 ### Anime
 
@@ -60,3 +61,7 @@ A non-exhaustive collection of some great sites.
 - [toppng.com](https://toppng.com/) has millions of free stock images in png.
 
 - [pngtree.com](https://pngtree.com/) has millions of images in PNG and AI formats.
+
+### Some Fun Sites
+
+- [The Springer GTM Test](https://math.jhu.edu/~savitt/GTM.html) finds what type of Springer text you are.

@@ -18,8 +18,7 @@ A non-exhaustive collection of some great sites.
 ### Anime
 
 - [AnimeRG](https://animereleasegroup.blogspot.com/p/main.html) has a good collecton of anime torrents.
-
-[animepahe.com](animepahe.com) has a large collection of anime at good quality with low file size.
+- [animepahe.com](animepahe.com) has a large collection of anime at good quality with low file size.
 
 ### Art
 

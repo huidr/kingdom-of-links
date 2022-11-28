@@ -45,6 +45,7 @@ A non-exhaustive collection of some great sites.
 ### Mathematics
 
 - [nLab](https://ncatlab.org/nlab/show/HomePage) is a wiki and has some great content on category theory and homotopy theory.
+- [Cite a Book in Mathematics](https://www.citationmachine.net/mathematics/cite-a-book).
 
 ### Searchers
 

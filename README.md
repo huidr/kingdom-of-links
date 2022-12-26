@@ -17,6 +17,7 @@ A non-exhaustive collection of some great sites.
 
 ### Anime
 
+- [MyAnimeList](https://myanimelist.net/) (or MAL) provides its users with a list-like system to organize and score anime and manga.
 - [AnimeRG](https://animereleasegroup.blogspot.com/p/main.html) has a good collecton of anime torrents.
 - [animepahe.com](animepahe.com) has a large collection of anime at good quality with low file size.
 

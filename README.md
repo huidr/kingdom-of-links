@@ -11,6 +11,7 @@ A non-exhaustive collection of some great sites.
 - [LaTeX](#latex)
 - [Manga](#manga)
 - [Mathematics](#mathematics)
+- [Music Learning](#music-learning)
 - [Searchers](#searchers)
 - [Transparent Images](#transparent-images)
 - [Some Fun Sites](#some-fun-sites)
@@ -47,6 +48,10 @@ A non-exhaustive collection of some great sites.
 
 - [nLab](https://ncatlab.org/nlab/show/HomePage) is a wiki and has some great content on category theory and homotopy theory.
 - [Cite a Book in Mathematics](https://www.citationmachine.net/mathematics/cite-a-book).
+
+### Music Learning
+
+- [Teoria](https://teoria.com) has some nice music theory tutorials and ear training exercises.
 
 ### Searchers
 

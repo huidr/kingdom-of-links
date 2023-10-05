@@ -77,3 +77,8 @@ A non-exhaustive collection of some great sites.
 ### Some Fun Sites
 
 - [The Springer GTM Test](https://math.jhu.edu/~savitt/GTM.html) finds what type of Springer text you are
+
+### Tests
+
+- [TypingTest.com](https://www.typingtest.com/) finds your typing speed in wpm
+- [16Personalities](https://www.16personalities.com/) finds your MBTI

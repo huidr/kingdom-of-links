@@ -56,6 +56,7 @@ A non-exhaustive collection of some great sites.
 - [Teoria](https://teoria.com) has some nice music theory tutorials and ear training exercises
 - [Violin Sheet Music](https://violinsheetmusic.org/)
 - [Perfect Pitch Quiz](https://tonedear.com/ear-training/absolute-perfect-pitch-test)
+- [Dear Violin Students: Violin Etudes and Studies](https://www.dearviolinstudents.com/category/violin-etudes-and-studies/)
 
 ### Searchers
 

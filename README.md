@@ -53,6 +53,7 @@ A non-exhaustive collection of some great sites.
 
 ### Music Learning
 
+- [Noteflight](https://www.noteflight.com) writes sheet music for you
 - [Teoria](https://teoria.com) has some nice music theory tutorials and ear training exercises
 - [Violin Sheet Music](https://violinsheetmusic.org/)
 - [Perfect Pitch Quiz](https://tonedear.com/ear-training/absolute-perfect-pitch-test)

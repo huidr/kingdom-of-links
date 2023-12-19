@@ -46,6 +46,7 @@ A non-exhaustive collection of some great sites.
 
 ### Mathematics
 
+- [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/) is a web-based database for the academic genealogy of mathematicians
 - [GeoGebra](https://www.geogebra.org/): Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more
 - [nLab](https://ncatlab.org/nlab/show/HomePage) is a wiki and has some great content on category theory and homotopy theory
 - [Cite a Book in Mathematics](https://www.citationmachine.net/mathematics/cite-a-book)

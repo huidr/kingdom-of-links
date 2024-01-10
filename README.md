@@ -12,6 +12,7 @@ A non-exhaustive collection of some great sites.
 - [Manga](#manga)
 - [Mathematics](#mathematics)
 - [Music Learning](#music-learning)
+- [Quizzes](#quizzes)
 - [Searchers](#searchers)
 - [Transparent Images](#transparent-images)
 - [Some Fun Sites](#some-fun-sites)
@@ -59,6 +60,10 @@ A non-exhaustive collection of some great sites.
 - [Violin Sheet Music](https://violinsheetmusic.org/)
 - [Perfect Pitch Quiz](https://tonedear.com/ear-training/absolute-perfect-pitch-test)
 - [Dear Violin Students: Violin Etudes and Studies](https://www.dearviolinstudents.com/category/violin-etudes-and-studies/)
+
+### Quizzes
+
+- [GeoGuessr](https://www.geoguessr.com/): How well do you know about maps and geography?
 
 ### Searchers
 

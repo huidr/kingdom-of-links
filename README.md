@@ -18,7 +18,7 @@ A non-exhaustive collection of some great sites.
 - [Transparent Images](#transparent-images)
 - [Some Fun Sites](#some-fun-sites)
 
-### AI Tools
+### AI tools
 
 - [ElevenLabs](https://elevenlabs.io/?utm_source=google&utm_medium=cpc&utm_campaign=non_brand_voice_gen&utm_content=india_eng&utm_term=voice%20over%20ai&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3Jclq7sMkV2JoM4hooZF7TRbNrjUjoo1gt2oTdrKcLb8PpJkom1dhUaAqL-EALw_wcB): Convert text to speech online for free with AI voice generator. Create natural AI voices instantly in any language.
 
@@ -78,13 +78,9 @@ A non-exhaustive collection of some great sites.
 ### Transparent Images
 
 - [logo.wine](https://logo.wine/) has high quality logos for brands in both PNG and SVG
-
 - [cleanpng.com](https://cleanpng.com/) has a large amount of transparent PNGs
-
 - [cooltext.com](https://cooltext.com/) lets you design text and logos in transparent PNG and other formats
-
 - [toppng.com](https://toppng.com/) has millions of free stock images in png
-
 - [pngtree.com](https://pngtree.com/) has millions of images in PNG and AI formats
 
 ### Some Fun Sites

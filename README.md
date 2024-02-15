@@ -13,6 +13,7 @@ A non-exhaustive collection of some great sites.
 - [Manga](#manga)
 - [Mathematics](#mathematics)
 - [Music Learning](#music-learning)
+- [Organize Your Life](#organize-your-life)
 - [Quizzes](#quizzes)
 - [Searchers](#searchers)
 - [Transparent Images](#transparent-images)
@@ -65,6 +66,11 @@ A non-exhaustive collection of some great sites.
 - [Violin Sheet Music](https://violinsheetmusic.org/)
 - [Perfect Pitch Quiz](https://tonedear.com/ear-training/absolute-perfect-pitch-test)
 - [Dear Violin Students: Violin Etudes and Studies](https://www.dearviolinstudents.com/category/violin-etudes-and-studies/)
+
+### Organize Your Life
+
+- [Goodreads](https://www.goodreads.com/) is a social cataloging website where you keep your history of book reading, ratings and reviews.
+- [Letterboxd](https://letterboxd.com/): social film discovery (lets your keep track of movies you have seen, make lists, get recommendations, rate and review movies, etc.)  
 
 ### Quizzes
 
